@@ -2,10 +2,11 @@
 import React from 'react';
 import "./styles.css"
 
-function Wrapper() {
+function Wrapper(props) {
     return (
-        <div className = "wrapper container-fluid">
-        </div>
+        <h1 className = "wrapper container-fluid">
+            {props.children}
+        </h1>
     );
 }
 
