@@ -5,7 +5,6 @@ function ContactInfo(){
 <div className="container">
 <div className="row">
       <div class="col-lg-6 col-sm-12">
-      <img src="../../assets/Images/contact.png" className="img-fluid" alt="Responsive image"/>
     </div>
     </div>      
     

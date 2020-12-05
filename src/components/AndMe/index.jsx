@@ -8,7 +8,6 @@ function AndMe(){
   <div className="row">
       <div className="col-lg-3 col-sm-0"></div>
       <div className="col-lg-6 col-sm-12">
-      <img src="../../assets/Images/and me.png" className="img-fluid" alt="and-me-title"/> 
       <div className="col-lg-3 col-sm-0"></div>
     </div>
     </div>
