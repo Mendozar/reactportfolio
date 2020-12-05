@@ -13,7 +13,7 @@ function AndMe(){
     </div>
     <div className="row" >
       <div className="col-3"></div>
-      <div className="col-lg-6 col-sm-12" className="text-center" className="mx-auto">
+      <div className="col-lg-6 col-sm-12 text-center mx-auto">
         <p>My name is Rudy Mendoza. I'm an aspriring SWE. Currently working as a Data Analyst.</p>
       </div>
       <div className="col-3"></div>
