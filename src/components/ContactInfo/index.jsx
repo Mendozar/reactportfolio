@@ -12,8 +12,12 @@ function ContactInfo(){
     <div className="col-lg-6 col-sm-12">
           <h5>email.</h5>
           <a href="mailto:argmend@gmail.com">argmend@gmail.com</a>
+          <h5>linkedin.</h5>
           <a href="https://www.linkedin.com/in/rudy-mendoza-2510a423/">LinkedIn</a>
+          <h5>linkedin.</h5>
           <a href="https://github.com/Mendozar">GitHub profile</a>
+          <h5>resume.</h5>
+          <a href="https://docs.google.com/document/d/1xkWKqF7NlBEnHf_NROsDdF5jCMLzioiGhLVq705levE/edit">Resume</a>
           {/* <!-- //QUOTE HERE --> */}
     </div>
 
