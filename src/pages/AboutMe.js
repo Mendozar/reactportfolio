@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../components/Navbar";
+import NavBar from "../components/NavBar";
 import HelloYou from "../components/HelloYou";
 import Skills from "../components/Skills";
 import AndMe from "../components/AndMe";
@@ -9,7 +9,7 @@ import Footer from "../components/Footer";
 function AboutMe(){
     return (
         <div>
-            <Navbar /> 
+            <NavBar /> 
             <HelloYou /> 
             <Skills /> 
             <AndMe /> 

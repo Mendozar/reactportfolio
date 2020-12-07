@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../components/Navbar";
+import NavBar from "../components/NavBar";
 import ContactInfo from "../components/ContactInfo";
 import Footer from "../components/Footer";
 
@@ -7,7 +7,7 @@ import Footer from "../components/Footer";
 function Contact(){
     return (
         <div>
-            <Navbar /> 
+            <NavBar /> 
             <ContactInfo /> 
             <Footer /> 
         </div>
